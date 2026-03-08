@@ -58,4 +58,4 @@ Open to **freelance projects** and **monthly retainer** engagements:
 
 ---
 
-📩 **robin.bagully@icloud.com** · [LinkedIn](https://linkedin.com/in/robin-bagully) · [Portfolio](https://robinbagully.com)
+📩 **robin.bagully@icloud.com** · [LinkedIn](https://linkedin.com/in/robin-bagully) · [Portfolio](https://bagullyanalytics.com)
