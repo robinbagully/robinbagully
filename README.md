@@ -54,6 +54,7 @@ Open to **freelance projects** and **monthly retainer** engagements:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-E97627?style=flat&logo=powerbi&logoColor=white)
 
 ---
 
