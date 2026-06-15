@@ -1,4 +1,4 @@
-# Hey, I'm Robin Bagully 👋
+# Hey, I'm Robin Bagully
 
 **Freelance Analytics Engineer** — I build the data infrastructure that turns raw operational data into decisions.
 
@@ -21,9 +21,9 @@ Backend & APIs           Python · Supabase · PostgreSQL · REST APIs
 
 | Repo | What It Is |
 |------|-----------|
-| [🏥 healthcare-dbt-models](../healthcare-dbt-models) | Production dbt project: RCM models for AR aging, denials, cash collections |
-| [🔧 analytics-sql-toolkit](../analytics-sql-toolkit) | Reusable SQL patterns: window functions, cohort analysis, healthcare RCM queries |
-| [⚙️ data-pipeline-tools](../data-pipeline-tools) | Python utilities: Notion→Supabase sync, CSV ingestion, API connectors |
+| [healthcare-dbt-models](../healthcare-dbt-models) | Production dbt project: RCM models for AR aging, denials, cash collections |
+| [analytics-sql-toolkit](../analytics-sql-toolkit) | Reusable SQL patterns: window functions, cohort analysis, healthcare RCM queries |
+| [data-pipeline-tools](../data-pipeline-tools) | Python utilities: Notion→Supabase sync, CSV ingestion, API connectors |
 
 ---
 
@@ -36,15 +36,6 @@ At **PromptCare** (home infusion, 3+ years):
 
 ---
 
-### Currently Available
-
-Open to **freelance projects** and **monthly retainer** engagements:
-
-- 🔹 Data & reporting cleanup ($400–800 flat)
-- 🔹 Custom dashboard builds ($800–2,000 flat)
-- 🔹 Fractional analytics engineer ($1,000–2,500/mo)
-
----
 
 ### Stack
 
@@ -58,4 +49,4 @@ Open to **freelance projects** and **monthly retainer** engagements:
 
 ---
 
-📩 **robin.bagully@icloud.com** · [LinkedIn](https://linkedin.com/in/robin-bagully) · [Portfolio](https://bagullyanalytics.com) · [📅 Book a Call](https://calendly.com/robinbagully/30min)
+[LinkedIn](https://linkedin.com/in/robin-bagully) · [Portfolio](https://bagullyanalytics.com)
