@@ -1,8 +1,8 @@
 # Hey, I'm Robin Bagully
 
-**Senior Analytics Engineer** I build the data infrastructure that turns raw operational data into decisions.
+**Senior Analytics Engineer.** I build the data infrastructure that turns raw operational data into decisions.
 
-10 years in data, 4 deep in healthcare. I've shipped dbt pipelines, Snowflake migrations, and revenue dashboards for home infusion and specialty pharmacy companies.
+10 years in data, 5 deep in healthcare. I've shipped dbt pipelines, Snowflake migrations, and revenue dashboards for home infusion and specialty pharmacy companies.
 
 ---
 
