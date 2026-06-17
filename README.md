@@ -1,8 +1,8 @@
 # Hey, I'm Robin Bagully
 
-**Freelance Analytics Engineer** — I build the data infrastructure that turns raw operational data into decisions.
+**Senior Analytics Engineer** — I build the data infrastructure that turns raw operational data into decisions.
 
-7 years in data, 4 deep in healthcare. I've shipped dbt pipelines, Snowflake migrations, and revenue dashboards for home infusion and specialty pharmacy companies. Now I do it as a freelancer.
+10 years in data, 4 deep in healthcare. I've shipped dbt pipelines, Snowflake migrations, and revenue dashboards for home infusion and specialty pharmacy companies.
 
 ---
 
@@ -29,7 +29,7 @@ Backend & APIs           Python · Supabase · PostgreSQL · REST APIs
 
 ### Recent Work
 
-At **PromptCare** (home infusion, 3+ years):
+At **PromptCare** (home infusion, 5+ years):
 - Architected the core dbt Cloud data layer connecting CPR+ clinical + billing data
 - Cut a 4-hour pipeline to under 30 minutes with incremental model redesign
 - Built the models tracking a $50M+ revenue stream across RCM and clinical ops
