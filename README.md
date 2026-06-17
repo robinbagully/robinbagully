@@ -49,4 +49,4 @@ At **PromptCare** (home infusion, 5+ years):
 
 ---
 
-[LinkedIn](https://linkedin.com/in/robin-bagully) · [Portfolio](https://bagullyanalytics.com)
+[LinkedIn](https://linkedin.com/in/robin-bagully) · [Portfolio](https://robinbagully.com)
